@@ -6,4 +6,10 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+* I have learned several new elements to utilize in HTML. I used to rely on css to accomplish some of things i can now easily do right from HTML. Notably the superscript/ subscript elements and horizontal rule.
+
+* Repetition is key, with HTML that remains true. It has become a natural part of writing with more practice, much more easier to call upon new found elements and skills when you do it frequently enough.
+
+* Given that I personally already have a background in Web Development, I find it hard to restrain from using CSS and JS to make these projects look dynamic, excited to move forward in the course!
+
+* Using online resources such as Mozilla and W3 is a blessing for overcoming challenges. All it takes is a simple google search to arm ones self with invaluable information.
